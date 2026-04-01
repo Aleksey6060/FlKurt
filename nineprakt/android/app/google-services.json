@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224333055970",
+    "project_id": "neveroyatniproketflutter",
+    "storage_bucket": "neveroyatniproketflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224333055970:android:4d46f0ef4313ad2d22dbbb",
+        "android_client_info": {
+          "package_name": "com.example.nineprakt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkY1JsHGwbEC4b5sJIdovEE1KLaYt9Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
